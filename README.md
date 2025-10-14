@@ -279,8 +279,6 @@ stages:
 
 ## Contact
 
-- **Author**: Lakshit Jain
-- **LinkedIn**: [Lakshit Jain](https://www.linkedin.com/in/lakshitcodes/)
-- **GitHub**: [lakshitcodes](https://github.com/lakshitcodes)
+- **Author**: Nishchay Azad
 
 ---
