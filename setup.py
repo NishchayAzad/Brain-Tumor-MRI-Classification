@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "Brain-Tumor-MRI-Classification"
-AUTHOR_USER_NAME = "lakshitcodes"
+AUTHOR_USER_NAME = "NishchayAzad"
 SRC_REPO = "brainTumorMRIClassification"
-AUTHOR_EMAIL = "jainlakshit849@gmail.com"
+AUTHOR_EMAIL = "nishchayazad270704@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
@@ -19,9 +19,9 @@ setuptools.setup(
     description="Brain Tumor MRI Classification App built using python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/lakshitcodes/Brain-Tumor-MRI-Classification",
+    url="https://github.com/NishchayAzad/Brain-Tumor-MRI-Classification",
     project_urls={
-        "Bug_Tracker": "https://github.com/lakshitcodes/Brain-Tumor-MRI-Classification/issues",
+        "Bug_Tracker": "https://github.com/NishchayAzad/Brain-Tumor-MRI-Classification/issues",
     },
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
