@@ -244,7 +244,7 @@ stages:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/lakshitcodes/Brain-Tumor-MRI-Classification.git
+   git clone https://github.com/NishchayAzad/Brain-Tumor-MRI-Classification.git
    cd Brain-Tumor-MRI-Classification
    ```
 2. **Install dependencies:**
